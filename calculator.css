@@ -1,0 +1,26 @@
+table, th, td {
+  border: 20px solid #C0C0C0;
+  font-weight: bolder;
+  font-size: 1.5em;
+}
+table {
+  border-collapse: collapse;
+}
+tr {
+  text-align: center;
+}
+
+.number {
+  height: 100px;
+  width: 100px;
+}
+#display {
+  height: 100px;
+}
+.actions {
+  width: 200px;
+  background-color: #0066FF;
+}
+.filler {
+  background-color: #C0C0C0;
+}
